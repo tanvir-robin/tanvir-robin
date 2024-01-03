@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
 <h3 align="center">Passionate Flutter developer crafting beautiful, functional mobile apps & web experiences that shine across Android, iOS, and the web.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-robin" alt="tanvir-robin" /></a> </p>
-
 - 💬 Ask me about **Mobile Application, Flutter Framework, Firebase and etc related to mobile application development**
 
 - 📫 How to reach me **tanvirrobin18@cse.pstu.ac.bd**
@@ -20,4 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir-robin&show_icons=true&locale=en&layout=compact" alt="tanvir-robin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir-robin&show_icons=true&locale=en" alt="tanvir-robin" /></p>
-
