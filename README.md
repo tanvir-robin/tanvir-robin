@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Mobile Application, Flutter Framework, Firebase and etc related to mobile application development**
 
-- 📫 How to reach me **tanvirrobin18@cse.pstu.ac.bd**
+- 📫 Reach me at **tanvirrobin18@cse.pstu.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
