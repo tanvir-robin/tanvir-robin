@@ -20,5 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir-robin&show_icons=true&locale=en" alt="tanvir-robin" /></p>
 
 
-![](https://raw.githubusercontent.com/tanvir_robin/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/tanvir_robin/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/tanvir-robin/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/tanvir-robin/cf-stats/main/output/light_card.svg)
