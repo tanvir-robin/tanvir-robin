@@ -71,7 +71,4 @@
 
 ---
 
-### ✨ Fun Fact  
-<p align="center">
-  "Coding is like humor. If you have to explain it, it’s probably bad."
-</p>
+
