@@ -14,52 +14,49 @@
 
 ---
 
+### 🌟 About Me
 - 🌐 **Portfolio:** [https://tanvirrobin.tech](https://tanvirrobin.tech)  
 - 💬 **Ask me about:** Mobile Applications, Flutter Framework, Firebase, and more!  
 - 📫 **Contact me at:** tanvirrobin18@cse.pstu.ac.bd  
+- 🎯 **Currently exploring:** Advanced backend development using Node.js and Express  
 
 ---
 
-<h3 align="center">🌐 Connect with me:</h3>
+### 🤝 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/tanvir-robin" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://fb.com/roobiiinnn" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40"/>
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/tanvir_robin" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces" width="40"/>
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white" />
+  </a>
+  <a href="mailto:tanvirrobin18@cse.pstu.ac.bd" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://figma.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
+### ⚙️ Tech & Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
+
+
+### 📊 GitHub Stats  
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanvir-robin&theme=github_dark)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanvir-robin&theme=github_dark" alt="GitHub Stats" width="400"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanvir-robin&theme=github_dark" alt="Most Used Languages" width="400"/>
@@ -67,14 +64,14 @@
 
 ---
 
-<h3 align="center">🏆 Codeforces Stats:</h3>
+### 🏆 Codeforces Stats  
 <p align="center">
   <img src="https://raw.githubusercontent.com/tanvir-robin/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats" />
 </p>
 
 ---
 
-<h3 align="center">✨ Fun Fact:</h3>
+### ✨ Fun Fact  
 <p align="center">
   "Coding is like humor. If you have to explain it, it’s probably bad."
 </p>
