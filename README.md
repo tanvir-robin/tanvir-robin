@@ -16,9 +16,9 @@
 
 ### 🌟 About Me
 - 🌐 **Portfolio:** [https://tanvirrobin.tech](https://tanvirrobin.tech)  
-- 💬 **Ask me about:** Mobile Applications, Flutter Framework, Firebase, and more!  
+- 💬 **Ask me about:** Mobile Applications, Flutter Framework, Firebase, Node.js, REST API, and GraphQL  
 - 📫 **Contact me at:** tanvirrobin18@cse.pstu.ac.bd  
-- 🎯 **Currently exploring:** Advanced backend development using Node.js and Express  
+- 🚀 **Tech Stack:** Flutter | Node.js | Express.js | MongoDB | REST API | GraphQL | WebSockets  
 
 ---
 
