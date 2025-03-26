@@ -44,8 +44,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=flat&logo=REST&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=GraphQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white" />
