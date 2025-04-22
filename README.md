@@ -33,7 +33,7 @@
   <a href="https://codeforces.com/profile/tanvir_robin" target="_blank">
     <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white" />
   </a>
-  <a href="mailto:tanvirrobin18@cse.pstu.ac.bd" target="_blank">
+  <a href="mailto:contact@tanvirrobin.dev" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" />
   </a>
 </p>
