@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=150&section=header&text=Hi%20👋,%20I'm%20Robin&fontSize=55&fontAlignY=30&desc=Full-Stack%20Developer&descAlignY=65&descAlign=50" />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Robin</h1>
 
 <h1 align="center">
@@ -40,19 +45,53 @@
 
 ---
 
-### ⚙️ Tech & Tools  
+## 🛠️ Tech Stack & Tools
+
+<h3 align="center">🛠️ Technologies I Work With</h3>
+
+### 🎯 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=MongoDB&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=flat&logo=REST&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=GraphQL&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
 </p>
+
+### 📱 Mobile & Web Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white" />
+</p>
+
+### 🔧 APIs & Services
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=REST&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-%23010101.svg?style=for-the-badge&logo=Socket.io&logoColor=white" />
+</p>
+
+### 🛠️ Tools & Others
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" />
+</p>
+
 
 ---
 
