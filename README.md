@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=150&section=header&text=Hi%20👋,%20I'm%20Robin&fontSize=55&fontAlignY=30&desc=Full-Stack%20Developer&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=150&section=header&text=Hi%20👋,%20I'm%20Robin&fontSize=55&fontAlignY=35&fontColor=FFFFFF" />
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Robin</h1>
+
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -113,4 +114,18 @@
 
 ---
 
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" />
+</div>
+
+<p align="center">
+  <strong>Thanks for visiting!</strong><br>
+  <strong>Let's connect and build something amazing together!</strong><br>
+  <strong>Have a good day! 🚀</strong>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow line" width="100%">
+</div>
 
