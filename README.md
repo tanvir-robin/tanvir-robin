@@ -73,7 +73,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-<img src="https://api.tracklayer.xyz/p/LkfDraD9L.png" width="1" height="1" />
+<img src="https://api.tracklayer.xyz/p/ClVNhd6YC.png" width="1" height="1" />
 
 <div align="center">
   <h3>Connect</h3>
