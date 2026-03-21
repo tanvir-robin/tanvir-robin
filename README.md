@@ -38,6 +38,160 @@
 
 <br/>
 
+### Selected Client Apps
+
+These are a few published products I have built for companies and client teams. They are not my own startups or personal apps. I have worked on many more production systems, but I can only share a selected set here because several projects are covered by NDA.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <table>
+        <tr>
+          <td width="84" valign="top">
+            <img src="./logos/coucou_express.png" alt="CouCou Express logo" width="72" />
+          </td>
+          <td valign="top">
+            <strong>CouCou Express</strong><br/>
+            <sub>Built for <strong>CouCou</strong></sub><br/>
+            <sub>Multi-service delivery platform for food, parcels, groceries, pharmacies, supershops, and more, now serving users in Senegal.</sub><br/><br/>
+            <a href="https://play.google.com/store/apps/details?id=com.coucouexpress">
+              <img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=google-play&logoColor=white" alt="Play Store" />
+            </a>
+            <a href="https://apps.apple.com/sn/app/coucou-express/id6736343048">
+              <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store" />
+            </a><br/>
+            <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb" height="28" alt="Flutter, Node.js, MongoDB" />
+            <br/>
+            <sub><strong>Realtime:</strong> WebSockets, live order flow</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table>
+        <tr>
+          <td width="84" valign="top">
+            <img src="./logos/coucou_express_driver.jpg" alt="CouCou Express Driver logo" width="72" />
+          </td>
+          <td valign="top">
+            <strong>CouCou Express Driver</strong><br/>
+            <sub>Built for <strong>CouCou</strong></sub><br/>
+            <sub>Driver and rider companion app for dispatch, GPS-based order assignment, live tracking, order updates, earnings, and customer communication.</sub><br/><br/>
+            <a href="https://play.google.com/store/apps/details?id=com.coucouexpress.delivery">
+              <img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=google-play&logoColor=white" alt="Play Store" />
+            </a>
+            <a href="https://apps.apple.com/us/app/coucou-express-driver/id6736559761">
+              <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store" />
+            </a><br/>
+            <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb" height="28" alt="Flutter, Node.js, MongoDB" />
+            <br/>
+            <sub><strong>Realtime:</strong> WebSockets, geofencing, GPS tracking</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <table>
+        <tr>
+          <td width="84" valign="top">
+            <img src="./logos/servicehub_nz.webp" alt="ServiceHub NZ logo" width="72" />
+          </td>
+          <td valign="top">
+            <strong>ServiceHub NZ</strong><br/>
+            <sub>Built for <strong>KiaSolutions</strong></sub><br/>
+            <sub>Service marketplace plus business SaaS and CRM for the New Zealand market, with 40+ features across operations, customer management, scheduling, and business workflows.</sub><br/><br/>
+            <a href="https://play.google.com/store/apps/details?id=com.app.service_hub">
+              <img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=google-play&logoColor=white" alt="Play Store" />
+            </a>
+            <a href="https://apps.apple.com/us/app/servicehub-nz/id6473715487">
+              <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store" />
+            </a><br/>
+            <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb" height="28" alt="Flutter, Node.js, MongoDB" />
+            <br/>
+            <sub><strong>Platform:</strong> Microservices, OAuth, Google Geolocation</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table>
+        <tr>
+          <td width="84" valign="top">
+            <img src="./logos/servicehub_staff.png" alt="ServiceHub Staff logo" width="72" />
+          </td>
+          <td valign="top">
+            <strong>ServiceHub Staff</strong><br/>
+            <sub>Built for <strong>KiaSolutions</strong></sub><br/>
+            <sub>Staff and workforce management app covering payroll, leave, expenses, attendance, live location monitoring, and core HRM operations.</sub><br/><br/>
+            <a href="https://play.google.com/store/apps/details?id=com.kiasolutions.servicehubstaffs">
+              <img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=google-play&logoColor=white" alt="Play Store" />
+            </a>
+            <a href="https://apps.apple.com/in/app/servicehub-staff/id6497408141">
+              <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store" />
+            </a><br/>
+            <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb" height="28" alt="Flutter, Node.js, MongoDB" />
+            <br/>
+            <sub><strong>Operations:</strong> GPS tracking, HR workflows, role-based access</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <table>
+        <tr>
+          <td width="84" valign="top">
+            <img src="./logos/tipswe.webp" alt="TipsWe logo" width="72" />
+          </td>
+          <td valign="top">
+            <strong>TipsWe</strong><br/>
+            <sub>Built for <strong>Zemparant LLC</strong></sub><br/>
+            <sub>Sports analytics and prediction platform delivering insights, prediction content, and live sports score experiences in a mobile-first product.</sub><br/><br/>
+            <a href="https://play.google.com/store/apps/details?id=com.zemparant.tipswe">
+              <img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=google-play&logoColor=white" alt="Play Store" />
+            </a>
+            <a href="https://apps.apple.com/app/tipswe-sports-betting-tips/id6740731603">
+              <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store" />
+            </a><br/>
+            <img src="https://skillicons.dev/icons?i=flutter,firebase" height="28" alt="Flutter, Firebase" />
+            <br/>
+            <sub><strong>Backend:</strong> REST APIs, Cloud Functions, analytics</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table>
+        <tr>
+          <td width="84" valign="top">
+            <img src="./logos/cricon.webp" alt="CricOn logo" width="72" />
+          </td>
+          <td valign="top">
+            <strong>CricOn</strong><br/>
+            <sub>Built for a <strong>sports-tech client</strong></sub><br/>
+            <sub>Real-time cricket scoring engine with ball-by-ball updates, automatic rate calculations, match state handling, and tournament standings generation.</sub><br/><br/>
+            <a href="https://play.google.com/store/apps/details?id=com.algorixit.livescore">
+              <img src="https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=google-play&logoColor=white" alt="Play Store" />
+            </a><br/>
+            <img src="https://skillicons.dev/icons?i=flutter,firebase" height="28" alt="Flutter, Firebase" />
+            <br/>
+            <sub><strong>Realtime:</strong> Live scoring pipelines, leaderboard logic</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
 <div align="center">
   <h3>Stack</h3>
   <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,nodejs,express,graphql,mongodb,postgres,redis,firebase,react,python,cpp,docker,git,figma,vscode&perline=9" />
