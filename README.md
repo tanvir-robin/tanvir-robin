@@ -137,7 +137,7 @@ These are <strong>published products</strong> I have built for <strong>companies
 <table width="100%" cellpadding="12">
   <tr>
     <td width="100" valign="middle" align="center">
-      <img src="./logos/notifa.png" alt="Notifa logo" width="80" style="border-radius: 16px;" />
+      <img src="./logos/notifa.webp" alt="Notifa logo" width="80" style="border-radius: 16px;" />
     </td>
     <td valign="top">
       <strong>Notifa</strong><br/>
