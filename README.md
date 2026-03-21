@@ -49,7 +49,7 @@ These are <strong>published products</strong> I have built for <strong>companies
     </td>
     <td valign="top">
       <strong>CouCou Express</strong><br/>
-      <sub><strong>Built for CouCou</strong></sub><br/><br/>
+      <sub><strong>Built for CouCou</strong></sub><br/>
       <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb" height="26" alt="Flutter, Node.js, MongoDB" /><br/><br/>
       <sub><strong>All-in-one delivery platform</strong> for food, parcels, groceries, pharmacies, supershops, and more, <strong>currently serving users in Senegal</strong>.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.coucouexpress">
@@ -57,7 +57,7 @@ These are <strong>published products</strong> I have built for <strong>companies
       </a>
       <a href="https://apps.apple.com/sn/app/coucou-express/id6736343048">
         <img src="https://img.shields.io/badge/App_Store-111827?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" height="32" />
-      </a><br/><br/>
+      </a><br/>
       <sub><strong>Tech:</strong> Flutter, Node.js, MongoDB, WebSockets</sub><br/>
       <sub><strong>Highlight:</strong> Real-time order flow and multi-service delivery operations</sub>
     </td>
@@ -71,7 +71,7 @@ These are <strong>published products</strong> I have built for <strong>companies
     </td>
     <td valign="top">
       <strong>CouCou Express Driver</strong><br/>
-      <sub><strong>Built for CouCou</strong></sub><br/><br/>
+      <sub><strong>Built for CouCou</strong></sub><br/>
       <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb" height="26" alt="Flutter, Node.js, MongoDB" /><br/><br/>
       <sub><strong>Driver and rider operations app</strong> with dispatch, <strong>GPS-based order assignment</strong>, live tracking, status updates, earnings, and customer communication.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.coucouexpress.delivery">
@@ -79,7 +79,7 @@ These are <strong>published products</strong> I have built for <strong>companies
       </a>
       <a href="https://apps.apple.com/us/app/coucou-express-driver/id6736559761">
         <img src="https://img.shields.io/badge/App_Store-111827?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" height="32" />
-      </a><br/><br/>
+      </a><br/>
       <sub><strong>Tech:</strong> Flutter, Node.js, MongoDB, Geofencing, WebSockets</sub><br/>
       <sub><strong>Highlight:</strong> Live rider tracking and operational dispatch workflows</sub>
     </td>
@@ -93,7 +93,7 @@ These are <strong>published products</strong> I have built for <strong>companies
     </td>
     <td valign="top">
       <strong>ServiceHub NZ</strong><br/>
-      <sub><strong>Built for KiaSolutions</strong></sub><br/><br/>
+      <sub><strong>Built for KiaSolutions</strong></sub><br/>
       <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb" height="26" alt="Flutter, Node.js, MongoDB" /><br/><br/>
       <sub><strong>Service marketplace + business SaaS + CRM</strong> for the New Zealand market, with <strong>40+ features</strong> across operations, scheduling, customer management, and business workflows.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.app.service_hub">
@@ -101,7 +101,7 @@ These are <strong>published products</strong> I have built for <strong>companies
       </a>
       <a href="https://apps.apple.com/us/app/servicehub-nz/id6473715487">
         <img src="https://img.shields.io/badge/App_Store-111827?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" height="32" />
-      </a><br/><br/>
+      </a><br/>
       <sub><strong>Tech:</strong> Flutter, Node.js, MongoDB, Microservices, OAuth</sub><br/>
       <sub><strong>Highlight:</strong> Integrated platform architecture with geolocation-powered workflows</sub>
     </td>
@@ -115,7 +115,7 @@ These are <strong>published products</strong> I have built for <strong>companies
     </td>
     <td valign="top">
       <strong>ServiceHub Staff</strong><br/>
-      <sub><strong>Built for KiaSolutions</strong></sub><br/><br/>
+      <sub><strong>Built for KiaSolutions</strong></sub><br/>
       <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb" height="26" alt="Flutter, Node.js, MongoDB" /><br/><br/>
       <sub><strong>Workforce management app</strong> covering payroll, leave, expenses, attendance, <strong>live location monitoring</strong>, and core HRM operations.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.kiasolutions.servicehubstaffs">
@@ -123,7 +123,7 @@ These are <strong>published products</strong> I have built for <strong>companies
       </a>
       <a href="https://apps.apple.com/in/app/servicehub-staff/id6497408141">
         <img src="https://img.shields.io/badge/App_Store-111827?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" height="32" />
-      </a><br/><br/>
+      </a><br/>
       <sub><strong>Tech:</strong> Flutter, Node.js, MongoDB, GPS Tracking, Role-based Access</sub><br/>
       <sub><strong>Highlight:</strong> HR workflows connected with real-time field visibility</sub>
     </td>
@@ -137,7 +137,7 @@ These are <strong>published products</strong> I have built for <strong>companies
     </td>
     <td valign="top">
       <strong>Notifa</strong><br/>
-      <sub><strong>Built for Prevail IT</strong></sub><br/><br/>
+      <sub><strong>Built for Prevail IT</strong></sub><br/>
       <img src="https://skillicons.dev/icons?i=flutter,firebase,gcp" height="26" alt="Flutter, Firebase, Google Cloud" /><br/><br/>
       <sub><strong>Never forget what matters.</strong> A smart reminder system that <strong>breaks through Google Cloud Scheduler's 30-day barrier</strong> with an intelligent layered queue architecture, enabling <strong>reliable notifications up to one year in advance</strong>.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.prevailit.notifa&hl=en-US">
@@ -145,7 +145,7 @@ These are <strong>published products</strong> I have built for <strong>companies
       </a>
       <a href="https://apps.apple.com/app/notifa/id6754469783">
         <img src="https://img.shields.io/badge/App_Store-111827?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" height="32" />
-      </a><br/><br/>
+      </a><br/>
       <sub><strong>Tech:</strong> Flutter, Firebase, Google Cloud Scheduler, Cloud Functions</sub><br/>
       <sub><strong>Highlight:</strong> Two-level database-driven scheduling for long-range reminders</sub>
     </td>
@@ -159,7 +159,7 @@ These are <strong>published products</strong> I have built for <strong>companies
     </td>
     <td valign="top">
       <strong>TipsWe</strong><br/>
-      <sub><strong>Built for Zemparant LLC</strong></sub><br/><br/>
+      <sub><strong>Built for Zemparant LLC</strong></sub><br/>
       <img src="https://skillicons.dev/icons?i=flutter,firebase" height="26" alt="Flutter, Firebase" /><br/><br/>
       <sub><strong>Sports analytics and prediction platform</strong> delivering prediction content, actionable insights, and <strong>live sports score experiences</strong>.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.zemparant.tipswe">
@@ -167,7 +167,7 @@ These are <strong>published products</strong> I have built for <strong>companies
       </a>
       <a href="https://apps.apple.com/app/tipswe-sports-betting-tips/id6740731603">
         <img src="https://img.shields.io/badge/App_Store-111827?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" height="32" />
-      </a><br/><br/>
+      </a><br/>
       <sub><strong>Tech:</strong> Flutter, Firebase, REST APIs, Cloud Functions</sub><br/>
       <sub><strong>Highlight:</strong> Analytics-driven sports content with real-time score delivery</sub>
     </td>
@@ -181,12 +181,12 @@ These are <strong>published products</strong> I have built for <strong>companies
     </td>
     <td valign="top">
       <strong>CricOn</strong><br/>
-      <sub><strong>Built for a sports-tech client</strong></sub><br/><br/>
+      <sub><strong>Built for a sports-tech client</strong></sub><br/>
       <img src="https://skillicons.dev/icons?i=flutter,firebase" height="26" alt="Flutter, Firebase" /><br/><br/>
       <sub><strong>Real-time cricket scoring engine</strong> with ball-by-ball updates, <strong>automatic rate calculations</strong>, match-state handling, and tournament standings generation.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.algorixit.livescore">
         <img src="https://img.shields.io/badge/Google_Play-111827?style=for-the-badge&logo=google-play&logoColor=3DDC84" alt="Google Play" height="32" />
-      </a><br/><br/>
+      </a><br/>
       <sub><strong>Tech:</strong> Flutter, Firebase, Realtime Database, Scoring Logic</sub><br/>
       <sub><strong>Highlight:</strong> Computation-heavy live scoring and leaderboard pipelines</sub>
     </td>
