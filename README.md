@@ -50,6 +50,7 @@ These are <strong>published products</strong> I have built for <strong>companies
     <td valign="top">
       <strong>CouCou Express</strong><br/>
       <sub><strong>Built for CouCou</strong></sub><br/>
+       <div style="height: 5px;"></div>
       <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb" height="26" alt="Flutter, Node.js, MongoDB" /><br/>
       <sub><strong>All-in-one delivery platform</strong> for food, parcels, groceries, pharmacies, supershops, and more, <strong>currently serving users in Senegal</strong>.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.coucouexpress">
@@ -72,6 +73,7 @@ These are <strong>published products</strong> I have built for <strong>companies
     <td valign="top">
       <strong>CouCou Express Driver</strong><br/>
       <sub><strong>Built for CouCou</strong></sub><br/>
+      <div style="height: 5px;"></div>
       <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb" height="26" alt="Flutter, Node.js, MongoDB" /><br/>
       <sub><strong>Driver and rider operations app</strong> with dispatch, <strong>GPS-based order assignment</strong>, live tracking, status updates, earnings, and customer communication.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.coucouexpress.delivery">
@@ -94,6 +96,7 @@ These are <strong>published products</strong> I have built for <strong>companies
     <td valign="top">
       <strong>ServiceHub NZ</strong><br/>
       <sub><strong>Built for KiaSolutions</strong></sub><br/>
+       <div style="height: 5px;"></div>
       <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb" height="26" alt="Flutter, Node.js, MongoDB" /><br/>
       <sub><strong>Service marketplace + business SaaS + CRM</strong> for the New Zealand market, with <strong>40+ features</strong> across operations, scheduling, customer management, and business workflows.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.app.service_hub">
@@ -116,6 +119,7 @@ These are <strong>published products</strong> I have built for <strong>companies
     <td valign="top">
       <strong>ServiceHub Staff</strong><br/>
       <sub><strong>Built for KiaSolutions</strong></sub><br/>
+       <div style="height: 5px;"></div>
       <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb" height="26" alt="Flutter, Node.js, MongoDB" /><br/>
       <sub><strong>Workforce management app</strong> covering payroll, leave, expenses, attendance, <strong>live location monitoring</strong>, and core HRM operations.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.kiasolutions.servicehubstaffs">
@@ -138,6 +142,7 @@ These are <strong>published products</strong> I have built for <strong>companies
     <td valign="top">
       <strong>Notifa</strong><br/>
       <sub><strong>Built for Prevail IT</strong></sub><br/>
+       <div style="height: 5px;"></div>
       <img src="https://skillicons.dev/icons?i=flutter,firebase,gcp" height="26" alt="Flutter, Firebase, Google Cloud" /><br/>
       <sub><strong>Never forget what matters.</strong> A smart reminder system that <strong>breaks through Google Cloud Scheduler's 30-day barrier</strong> with an intelligent layered queue architecture, enabling <strong>reliable notifications up to one year in advance</strong>.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.prevailit.notifa&hl=en-US">
@@ -160,6 +165,7 @@ These are <strong>published products</strong> I have built for <strong>companies
     <td valign="top">
       <strong>TipsWe</strong><br/>
       <sub><strong>Built for Zemparant LLC</strong></sub><br/>
+       <div style="height: 5px;"></div>
       <img src="https://skillicons.dev/icons?i=flutter,firebase" height="26" alt="Flutter, Firebase" /><br/>
       <sub><strong>Sports analytics and prediction platform</strong> delivering prediction content, actionable insights, and <strong>live sports score experiences</strong>.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.zemparant.tipswe">
