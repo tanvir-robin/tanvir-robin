@@ -38,9 +38,9 @@
 
 <br/>
 
-### Selected Client Apps
+### Some of my Client's Apps
 
-These are <strong>published products</strong> I have built for <strong>companies and client teams</strong>. They are <strong>not my own startups or personal apps</strong>. I have worked on many more production systems, but I can only share a selected set here because <strong>several projects are covered by NDA</strong>.
+These are some of my <strong>published products</strong> I have built for <strong>companies and client teams</strong>. They are <strong>not my own startups or personal apps</strong>. I have worked on many more production systems, but I can only share a selected set here because <strong>several projects are covered by NDA</strong>.
 
 <table width="100%" cellpadding="12">
   <tr>
