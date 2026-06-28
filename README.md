@@ -157,7 +157,7 @@ These are some of my <strong>published products</strong> I have built for <stron
   </tr>
 </table>
 
-<table width="100%" cellpadding="12">
+<!-- <table width="100%" cellpadding="12">
   <tr>
     <td width="100" valign="middle" align="center">
       <img src="./logos/tipswe.webp" alt="TipsWe logo" width="80" style="border-radius: 16px;" />
@@ -178,7 +178,7 @@ These are some of my <strong>published products</strong> I have built for <stron
       <sub><strong>Highlight:</strong> Analytics-driven sports content with real-time score delivery</sub>
     </td>
   </tr>
-</table>
+</table> -->
 
 <table width="100%" cellpadding="12">
   <tr>
